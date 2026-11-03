@@ -1,2 +1,1 @@
 TARGET_FOLDER = "C:/Users/dima/Desktop/Folder with receipts"
-
